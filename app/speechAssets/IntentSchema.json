@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "CheckBalanceIntent",
+      "slots": [
+        {
+          "name": "accountType",
+          "type": "ACCOUNT_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "PayIntent",
+      "slots": [
+        {
+          "name": "amount",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "payee",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

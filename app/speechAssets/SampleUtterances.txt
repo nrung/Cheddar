@@ -1,0 +1,23 @@
+CheckBalanceIntent what is my balance
+CheckBalanceIntent what is my account balance
+CheckBalanceIntent what is my {accountType} balance
+CheckBalanceIntent what is my {accountType} account balance
+CheckBalanceIntent what is the balance in my {accountType}
+CheckBalanceIntent what is the balance in my {accountType} account
+CheckBalanceIntent check my {accountType} balance
+CheckBalanceIntent check my {accountType} account balance
+CheckBalanceIntent check my balance
+CheckBalanceIntent check balance
+CheckBalanceIntent how much money do I have
+CheckBalanceIntent how much is in my account
+CheckBalanceIntent how much is in my {accountType} account
+CheckBalanceIntent how much of my productivity was extorted for capital
+CheckBalanceIntent how much of my labor was extorted for capital
+CheckBalanceIntent how much of my labor have I exchanged for capital
+
+PayIntent pay {bob jones|payee} {amount} dollars
+PayIntent send {bob jones|payee} {amount} dollars
+PayIntent send {amount} dollars to {bob jones|payee}
+PayIntent send {amount} dollars {bob jones|payee}
+
+DemoIntent demo
