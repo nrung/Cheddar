@@ -1,5 +1,5 @@
 # Cheddar
-An Alexa skill for the Amazon Echo made using an [AWS Lambda](http://aws.amazon.com/lambda) function that allows users to check a fake bank account and make pseudo-transactions via voice commands. It also delivers a sick demo.
+An Alexa skill for the Amazon Echo made using [AWS Lambda](http://aws.amazon.com/lambda) that allows users to check a fake bank account and make pseudo-transactions via voice commands. It also delivers a sick demo.
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
